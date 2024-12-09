@@ -29,6 +29,7 @@ Dice Game is a Solana-based blockchain gambling program implemented in Rust usin
 ## File Contents
 This repository includes a single file:
 - **`lib.rs`**: Contains the complete logic for the Dice Game smart contract, including all functions, account structures, and error handling.
+-  client.ts and anchor.test.ta  are not in use for this project.
 
   ## License
   - This project is under the **MIT LICENSE**
